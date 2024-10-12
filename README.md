@@ -57,14 +57,14 @@
 
 #### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
-![SQlite](https://img.shields.io/badge/-SQlite-05122A?style=flat&logo=sqlite&logoColor=A8B9CC)&nbsp;
+![Mongo DB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=green)
 
 #### Tools and Technologies
 
 
 ![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)&nbsp;
 ![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white)&nbsp;
