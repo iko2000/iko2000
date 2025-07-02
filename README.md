@@ -13,7 +13,7 @@
 - 🔧 I’m currently working on ...The-Van-App mobile App.
 
 - 💡 I’m curious about ...Software and Web-tech.
-- 📖 I’m currently learning ...JAVA.
+- 📖 I’m currently learning ...GoLang.
 - ❄️ I’m looking to collaborate on ...Open Source Projects.
 - 📫 How to reach me ...shengelia1800@gmail.com.
 
