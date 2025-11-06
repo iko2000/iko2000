@@ -89,11 +89,7 @@
 <br/>
 <br/>
 
-## 📊 GitHub Stats
 
-<img width="400px" src="https://github-readme-stats.vercel.app/api?username=IvikoSheng&show_icons=true&theme=tokyonight&count_private=true"/>
-
-<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=IvikoSheng&theme=tokyonight"/>
 
 </td>
  </tr>
